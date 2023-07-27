@@ -40,7 +40,7 @@ Once logged in, you may configure Roles, Departments, Teams, and Agents(workers)
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You Configure SLAs (Service Level Agreements) by clicking on the Manage tab and selecting SLA. SLA is an essential feature in osTicket that helps define and enforce response and resolution time commitments for customer support requests.
 </p>
 <br />
 
@@ -49,6 +49,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You Configure Help Topics by going to the Manage tab and clicking on "Help Topics" from the sub Menu.
 </p>
 <br />
